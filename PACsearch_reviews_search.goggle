@@ -14,10 +14,10 @@ $boost=3,site=youtube.com
 $boost=3,site=instagram.com
 $boost=3,site=pinterest.com
 $boost=3,site=tiktok.com
-$boost=3,site=telegram.com
-$boost=3,site=locals.com
-$boost=3,site=rumble.com
-$boost=3,site=tumblr.com
+$boost=3,site=bing.com
+$boost=3,site=duckduckgo.com
+$boost=3,site=startpage.com
+$boost=3,site=brave.com
 $boost=3,site=linkedin.com
 $boost=3,site=yellowpages.com
 $boost=3,site=google.com

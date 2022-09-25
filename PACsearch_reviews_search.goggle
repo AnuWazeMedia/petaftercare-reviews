@@ -5,6 +5,7 @@
 ! homepage: https://petaftercare.com/
 
 $discard
+$downrank,site=google.com
 
 $boost=3,site=yelp.com
 $boost=3,site=facebook.com

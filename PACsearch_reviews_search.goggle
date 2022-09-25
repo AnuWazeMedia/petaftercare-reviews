@@ -10,8 +10,8 @@ $boost=3,site=facebook.com
 $boost=3,site=twitter.com
 $boost=3,site=youtube.com
 $boost=3,site=instagram.com
-$boost=3,site=pinterest.com
-$boost=3,site=tiktok.com
+$boost=3,site=angi.com
+$boost=3,site=bbb.org
 $boost=3,site=bing.com
 $boost=3,site=duckduckgo.com
 $boost=3,site=startpage.com

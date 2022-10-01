@@ -4,6 +4,7 @@
 ! author: PetAftercare.com
 ! homepage: https://petaftercare.com/
 
+$discard
 
 $boost=3,site=yelp.com
 $boost=3,site=facebook.com
